@@ -1762,7 +1762,7 @@
 				pins = "gpio90";
 				bias-pull-up;
 				drive-strength = <16>;
-				output-low;
+				output-high;
 			};
 		};
 	};

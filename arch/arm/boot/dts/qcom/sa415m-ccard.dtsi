@@ -51,7 +51,8 @@
 &i2c_4 {
 	asm330@6a {
 		reg = <0x6b>;
-		asm330-enable-gpio = <&tlmm 90 0x1>;
+		pinctrl-names = "default";
+		pinctrl-0 = <&sensor_enable_default>;
 	};
 };
 
