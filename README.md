@@ -14,10 +14,10 @@
  - Fingerprint gestures (for FPC and Goodix users)
  - Use the by Google recommended timer frequency 300hz
  - Removed safetynet flags (there is no need for magisk anymore to bypass safetynet)
- - WireGuard VPN support (Current version: 20200215)
+ - WireGuard VPN support
  - CPU Governors: schedutil, powersave and performance.
- - exFAT support
-
+ - exFAT support (thanks Arter97)
+ - Use /dev/urandom instead of /dev/random
 
 Dont bother asking for extra features like underclock and overclock etc because its not happening.
 
