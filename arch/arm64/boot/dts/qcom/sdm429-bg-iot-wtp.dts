@@ -16,9 +16,10 @@
 #include "sdm429-spyro.dtsi"
 #include "sdm429-spyro-qrd-evt.dtsi"
 #include "sdm429w-bg-pm660.dtsi"
+#include "sdm429-bg-memory.dtsi"
 
 / {
-	model = "Qualcomm Technologies, Inc. SDM429W BG IOT WTP";
+	model = "Qualcomm Technologies, Inc. SDM429 BG IOT WTP";
 	compatible = "qcom,sdm429w-qrd", "qcom,sdm429w", "qcom,qrd";
 	qcom,msm-id = <416 0x0>;
 	qcom,board-id = <0x00010b 8>;
