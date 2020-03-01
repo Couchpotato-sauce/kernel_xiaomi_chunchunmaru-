@@ -1,5 +1,5 @@
-# Chunchunmaru! kernel for Daisy
- ![logo]( https://user-images.githubusercontent.com/52329982/74588686-efb31580-4ffe-11ea-86a0-53b08787323c.png )
+# Chunchunmaru! kernel for Daisy and Sakura
+ ![logo]( https://user-images.githubusercontent.com/52329982/75632293-f181f900-5bfa-11ea-88f9-f47efe1895ad.png )
 
  *The greatest weapon known to man, created by a blacksmith of a different land, made with the resources of Japan, and is the    partner of our deity, Kazuma-san*
 
