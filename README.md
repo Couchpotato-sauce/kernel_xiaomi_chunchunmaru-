@@ -6,11 +6,11 @@
 
  Chunchunmaru! is a kernel based on Android Linux Stable and is mean't to be a clean and simple kernel to use as stock kernel  in my upcoming POSP builds
 
- Upstreamed to 4.9.214
- Merged the latest CAF tag for msm8953: LA.UM.8.6.2.r1-06100-89xx.0
+ Upstreamed to 4.9.215
+ Merged the latest CAF tag for msm8953: LA.UM.8.6.2.r1-06600-89xx.0
  
  Features:
- - DT2W for Goodix_TS users 
+ - DT2W for Goodix_TS and FTS_TS Users!
  - Fingerprint gestures (for FPC and Goodix users)
  - Use the by Google recommended timer frequency 300hz
  - Removed safetynet flags (there is no need for magisk anymore to bypass safetynet)
@@ -18,9 +18,11 @@
  - CPU Governors: schedutil, powersave and performance.
  - exFAT support (thanks Arter97)
  - Use /dev/urandom instead of /dev/random
-
+ - Boeffla's Wakelock blocker (TEMPORARY)
+ - Disabled debugfs
+ - Use @kerneltoast 's his SLMK instead of LMK
+ 
 Dont bother asking for extra features like underclock and overclock etc because its not happening.
-
 
 This kernel is made by Lacia~chan
  
