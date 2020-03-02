@@ -4,12 +4,12 @@
  *The greatest weapon known to man, created by a blacksmith of a different land, made with the resources of Japan, and is the    partner of our deity, Kazuma-san*
 
 
- Chunchunmaru! is a kernel based on Android Linux Stable and is mean't to be a clean and simple kernel to use as stock kernel  in my upcoming POSP builds
+Chunchunmaru! is a kernel based on Android Linux Stable and is mean't to be a clean and simple kernel to use as stock kernel  in my upcoming POSP builds
 
  Upstreamed to 4.9.215
  Merged the latest CAF tag for msm8953: LA.UM.8.6.2.r1-06600-89xx.0
  
- Features:
+ ### Features:
  - DT2W for Goodix_TS and FTS_TS Users!
  - Fingerprint gestures (for FPC and Goodix users)
  - Use the by Google recommended timer frequency 300hz
@@ -21,6 +21,9 @@
  - Boeffla's Wakelock blocker (TEMPORARY)
  - Disabled debugfs
  - Use @kerneltoast 's his SLMK instead of LMK
+
+#### Defconfig
+ - The defconfig used for this kernel is chunchunmaru_defconfig
  
 Dont bother asking for extra features like underclock and overclock etc because its not happening.
 
