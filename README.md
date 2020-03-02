@@ -8,7 +8,12 @@ Chunchunmaru! is a kernel based on Android Linux Stable and is mean't to be a cl
 
  Upstreamed to 4.9.215
  Merged the latest CAF tag for msm8953: LA.UM.8.6.2.r1-06600-89xx.0
- 
+
+### Branches
+ - Chunchunmaru!: Current stable release based on ALS with the latest CAF tag merged into kernel an audio-kernel
+ - staging: Current staging (in-progress branch)
+ - POSP: Where my POSP specific kernel source is stored
+
  ### Features:
  - DT2W for Goodix_TS and FTS_TS Users!
  - Fingerprint gestures (for FPC and Goodix users)
